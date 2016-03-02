@@ -2,7 +2,7 @@ CXX = g++
 CXXFLAGS =	-O2 -g -Wall -fmessage-length=0
 
 SRC_DIR = ./src
-INC_DIR = ./include
+INC_DIR = ./inc
 OBJ_DIR = ./obj
 TARGET = veriloglp
 
